@@ -4,4 +4,7 @@ body {
 header [
       backgroud-color: #424e61;
       color: white;
-[
+}
+.cabecalho-imagem{
+    width: 20%;
+}
