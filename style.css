@@ -8,3 +8,11 @@ header [
 .cabecalho-imagem{
     width: 20%;
 }
+.cabecalho {
+ backgroud-color: #424E61;
+ color: whit;
+ display: flex;
+ justify-content: space-aroud;
+ align-items: center;
+ padding: 24px 0;
+}
